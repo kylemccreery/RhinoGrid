@@ -3,7 +3,7 @@ Rhino python library and plugin using it to draw Gridfinity compatible bins, or 
 
 Can be installed by double clicking the .rhi file.
 
-Written in pyton using rhinocommon and rhinoscriptsyntax.
+Written in python using rhinocommon and rhinoscriptsyntax.
 
 Big thing to note is the surface_from_parallels function is incredibly jank but is meant to counteract the sweep2 and loft tendencies to create broken surfaces based on non-matching lengths of the composite lines. There is also a startling lack of built in chamfer functionality from rhinoscriptsyntax, so this both handles rounded chamfered edges and makes consistent vertical rounded rectangle polysurfaces. Since it works for both, I'm pretty in favor of using it over other more "correct" options.
 
@@ -14,4 +14,3 @@ Redraw is disabled per command to allow for not disabling it when using the grid
 Demo video of rgbin command (click thumbnail to watch on youtube):
 
 [![Demo video of rgbin being used](https://img.youtube.com/vi/D340Aelf3B4/0.jpg)](https://www.youtube.com/watch?v=D340Aelf3B4)
-
