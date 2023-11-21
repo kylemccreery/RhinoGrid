@@ -14,3 +14,7 @@ Redraw is disabled per command to allow for not disabling it when using the grid
 Demo video of rgbin command (click thumbnail to watch on youtube):
 
 [![Demo video of rgbin being used](https://img.youtube.com/vi/D340Aelf3B4/0.jpg)](https://www.youtube.com/watch?v=D340Aelf3B4)
+
+Demo video of full RhinoGrid workflow for custom gridfinity object (click thumbnail to watch on youtube):
+
+[![Demo video of full RhinoGrid workflow](https://img.youtube.com/vi/613kfte0xlo/0.jpg)](https://www.youtube.com/watch?v=613kfte0xlo)
