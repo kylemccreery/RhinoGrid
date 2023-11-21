@@ -11,7 +11,7 @@ Used the rs.Command for rectangle command for rounded rectangles since it was a 
 
 Redraw is disabled per command to allow for not disabling it when using the gridfinity.py library to create other commands. Having redraw disabled makes the actual generation of the shapes much faster, but it is way less satisfying to watch.
 
-Demo video of rgbin command:
+Demo video of rgbin command (click thumbnail to watch on youtube):
 
 [![Demo video of rgbin being used](https://img.youtube.com/vi/D340Aelf3B4/0.jpg)](https://www.youtube.com/watch?v=D340Aelf3B4)
 
